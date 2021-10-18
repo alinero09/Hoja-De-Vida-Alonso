@@ -180,3 +180,21 @@ h3{
     color: #213a44;
 }
 
+.sobre a{
+    font-weight: 500;
+    color:#213a44;
+}
+
+.sobre ul li{
+    font-weight: 500;
+    color:#213a44;
+    list-style: none;
+}
+
+
+.sobre a:hover{
+    font-weight: 500;
+    color: #fff;
+    transition: 0.5s;
+    background-color: #438daa;
+}
